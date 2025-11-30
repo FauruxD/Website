@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Jinseigyakuten Uwakisare Enzai wo Kiserareta Orega Gakuenichi no Bisyoujo ni Natsukareru",
+        "author": "<i>FaruGanzz</i>",
+        "genre": "Netorare, Drama",
+        "image": "images/cover1.jpg",
+        "description": "Dari jurang keputusasaan di mana ia kehilangan segalanya, kembalikan masa mudanya!!!!!!\nSetelah dikhianati oleh pacarnya yang merupakan teman masa kecilnya dan difitnah melakukan kekerasan dalam hubungan, Eiji bertemu dengan Ai, gadis tercantik di sekolah, di atap tempat ia melarikan diri. Sama-sama putus asa terhadap hidup, Ai dan Eiji kabur dari sekolah bersama—memulai dari titik terendah dalam komedi romantis balas dendam ini.",
+        "chapters": [
+            {
+                "title": "Vol 1 Chapter 1 - Terungkapnya Perselingkuhan dan Bullying",
+                "filename": "ch1.txt"
+            },
+            {
+                "title": "Vol 1 Chapter 2 - Hari Takdir, di Atas Atap",
+                "filename": "ch2.txt"
+            },
+            {
+                "title": "Vol 1 Chapter 3 - Gerakan di Sekolah",
+                "filename": "ch3.txt"
+            },
+            {
+                "title": "Vol 1 Chapter 4 - Dapur Aono",
+                "filename": "ch4.txt"
+            },
+            {
+                "title": "Vol 1 Chapter 5 - Orang Dewasa yang Dapat Diandalkan",
+                "filename": "ch5.txt"
+            },
+            {
+                "title": "Vol 1 Chapter 6 - Kencan Pertama dan…",
+                "filename": "ch6.txt"
+            },
+            {
+                "title": "Vol 1 Chapter 7 - Kesalahan Perhitungan Kondo",
+                "filename": "ch7.txt"
+            },
+            {
+                "title": "Vol 1 Chapter 8 - Perkembangan masalah Perundungan",
+                "filename": "ch8.txt"
+            },
+            {
+                "title": "Vol 1 Chapter 9 - Kebencian yang Ditujukan pada Kondo",
+                "filename": "ch9.txt"
+            },
+            {
+                "title": "Vol 1 Chapter 10 - Kencan Liburan Pertama",
+                "filename": "ch10.txt"
+            },
+            {
+                "title": "Vol 2 - Prolog",
+                "filename": "vol2prolog.txt"
+            },
+            {
+                "title": "Vol 2 Chapter 1 - Nasib Pelaku dan Para Pendendam Sehari Sebelum Kencan",
+                "filename": "ch11.txt"
+            },
+            {
+                "title": "Vol 2 Chapter 2 - Hancurnya Pihak Pelaku",
+                "filename": "ch12.txt"
+            },
+            {
+                "title": "Vol 2 Chapter 3 - Menolong Orang dan Runtuhnya Kelompok Selingkuh",
+                "filename": "ch13.txt"
+            },
+            {
+                "title": "Vol 2 Chapter 4 - Bertemu dengan Teman Masa Kecil",
+                "filename": "ch14.txt"
+            },
+            {
+                "title": "Vol 2 Chapter 5 - Ai vs Miyuki",
+                "filename": "ch15.txt"
+            },
+            {
+                "title": "Vol 2 Chapter 6 - Tuduhan yang Menghilang",
+                "filename": "ch16.txt"
+            },
+            {
+                "title": "Vol 2 Chapter 7 - Keputusan Eiji",
+                "filename": "ch17.txt"
+            },
+            {
+                "title": "Vol 2 - Epilog",
+                "filename": "vol2epilog.txt"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Quantum Dreams",
+        "author": "Nova Chen",
+        "genre": "Sci-Fi",
+        "image": "images/cover2.jpg",
+        "description": "Dreaming in quantum states...",
+        "chapters": [
+            {
+                "title": "Chapter 1: Awakening",
+                "filename": "ch1.txt"
+            }
+        ]
+    }
+]
